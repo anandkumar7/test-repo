@@ -2,3 +2,5 @@ Step 1: The file is on remote repo.
 step 2: the file was cloned to local.
 step 3: the file is updated in local.
 step 5: the file again updated in local.
+step 4: the file is updated on remote.
+
